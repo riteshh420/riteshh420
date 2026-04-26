@@ -12,6 +12,13 @@
 # 🌐 Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+# 🗄️ Backend & Database:
+
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-%23007ACC.svg?style=for-the-badge)
+
 # 🤖 AI / ML & Data:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,12 +60,3 @@
 - ⚡ Building scalable & useful products  
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=riteshh420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=riteshh420&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=riteshh420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://komarev.com/ghpvc/?username=riteshh420&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
